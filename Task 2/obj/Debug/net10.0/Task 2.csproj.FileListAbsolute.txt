@@ -1,0 +1,15 @@
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/Task 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/Task 2.AssemblyInfoInputs.cache
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/Task 2.AssemblyInfo.cs
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/Task 2.csproj.CoreCompileInputs.cache
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/Task 2.sourcelink.json
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/bin/Debug/net10.0/Task 2
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/bin/Debug/net10.0/Task 2.deps.json
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/bin/Debug/net10.0/Task 2.runtimeconfig.json
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/bin/Debug/net10.0/Task 2.dll
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/bin/Debug/net10.0/Task 2.pdb
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/Task 2.dll
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/refint/Task 2.dll
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/Task 2.pdb
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/Task 2.genruntimeconfig.cache
+/home/astro/Documents/code/dotnet/prj/w3/Task 2/obj/Debug/net10.0/ref/Task 2.dll
