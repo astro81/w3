@@ -14,7 +14,7 @@ namespace Task_2
             string close = username ?? "Username is not available";
             Console.WriteLine(close);
 
-            string noClose = null; 
+            string? noClose = null; 
             noClose ??= "user"; 
             Console.WriteLine(noClose);
         }
