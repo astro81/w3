@@ -12,3 +12,4 @@
 /home/astro/Documents/code/dotnet/prj/w3/Task 1/obj/Debug/net10.0/Task 1.pdb
 /home/astro/Documents/code/dotnet/prj/w3/Task 1/obj/Debug/net10.0/Task 1.genruntimeconfig.cache
 /home/astro/Documents/code/dotnet/prj/w3/Task 1/obj/Debug/net10.0/ref/Task 1.dll
+/home/astro/Documents/code/dotnet/prj/w3/Task 1/obj/Debug/net10.0/Task 1.sourcelink.json
